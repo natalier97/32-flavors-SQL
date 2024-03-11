@@ -1,0 +1,9 @@
+id,flavor,dairy_free,price,quantity
+1,Chocolate,false,3.50,20
+2,Strawberry,true,4.00,15
+3,Vanilla,false,3.00,25
+4,Mint Chocolate Chip,false,4.50,10
+5,Cookies and Cream,true,4.50,12
+6,Raspberry Sorbet,true,3.50,8
+7,Pistachio,false,4.00,18
+8,Salted Caramel,false,4.50,22

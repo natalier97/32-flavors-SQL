@@ -1,0 +1,5 @@
+id,employee_name,position,pay_rate_per_hour,time_clocked_in,time_clocked_out
+1,John Doe,ice cream scooper,8.25,2024-03-11 09:00:00-07,2024-03-11 17:00:00-07
+2,Jane Smith,ice cream scooper,8.25,2024-03-11 08:30:00-07,2024-03-11 16:30:00-07
+3,Michael Johnson,ice cream scooper,8.25,2024-03-11 09:15:00-07,2024-03-11 17:15:00-07
+4,Emily Brown,ice cream scooper,8.25,2024-03-11 08:45:00-07,2024-03-11 16:45:00-07
